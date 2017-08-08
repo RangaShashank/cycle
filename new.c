@@ -3,6 +3,7 @@ int main()
 { 
 
 printf("members added");
-printf("hello spoors");
+printf("hi spoors");
 printf("hi");
+printf("helllllllloooo");
 }
